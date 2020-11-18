@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pause-app:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2020-11-17T18:40:59.466298418-08:00"
+    description: A Helm chart for Pause-App
+    digest: 7d2f67e0315dddb2e2ac05b98652b9479a75a52bab031d2aba7f94687d8cbe8f
+    name: pause-app
+    type: application
+    urls:
+    - https://anandpartha.github.io/helm-chart/pause-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-11-17T18:40:59.465822397-08:00"
